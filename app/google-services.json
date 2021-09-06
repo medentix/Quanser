@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587060914864",
+    "firebase_url": "https://quanser-fanteka-default-rtdb.firebaseio.com",
+    "project_id": "quanser-fanteka",
+    "storage_bucket": "quanser-fanteka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587060914864:android:cf8105bbd9bbfcbac82975",
+        "android_client_info": {
+          "package_name": "com.example.quanser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587060914864-3j9j2onshq9creqtbq25m7qu68oi5hq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeNZ93xXbPtG5deNv99c0Qqnqgosb4aqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587060914864-3j9j2onshq9creqtbq25m7qu68oi5hq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
